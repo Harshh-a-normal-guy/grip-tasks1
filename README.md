@@ -1,1 +1,1 @@
-# grip-tasks1
+prediction using Linear Regression with only 2 Variables
